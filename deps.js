@@ -1,4 +1,4 @@
-export * as mozilla from "https://raw.githubusercontent.com/denolib/deno-source-map/master/source-map.js";
+export * as mozilla from "https://raw.githubusercontent.com/denolib/deno-source-map/master/mod.js";
 
 export * as path from "https://deno.land/std/node/path.ts";
 
